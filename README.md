@@ -8,12 +8,14 @@ Este proyecto es una **API REST** construida con **Node.js** y **Express**, que 
 ## 📁 Estructura del Proyecto
 
 ```
-.
-├── index.js            # Archivo principal con la API Express
-├── cafes.json          # Base de datos simulada con cafés
-├── server.spec.js      # Archivo de pruebas con Supertest
+cafeteria_monaco/
+├── cafes.json
+├── index.js
 ├── package.json
-└── README.md
+├── package-lock.json
+├── README.md
+└── tests
+    └── server.spec.js
 ```
 
 ---
