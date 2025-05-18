@@ -23,7 +23,7 @@ Este proyecto es una **API REST** construida con **Node.js** y **Express**, que 
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
+git clone https://github.com/framirez-lab/cafeteria-monaco.git
 cd nombre-del-repo
 ```
 
